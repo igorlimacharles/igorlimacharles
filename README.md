@@ -1,11 +1,11 @@
 # Olá, eu sou o Igor Lima Charles! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=P%C3%B3s-graduando+em+Engenharia+de+Software;Kotlin+%7C+Java+%7C+TypeScript;Mobile+Android+%26+Backend;Qualidade+de+Software+%26+Automa%C3%A7%C3%A3o+QA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=P%C3%B3s-graduando+em+Engenharia+de+Software;Foco+em+Backend+%26+Cloud+Computing;Java+%7C+TypeScript+%7C+Python;Qualidade+de+Software+%26+DevOps" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  📍 <b>São Paulo — SP, Brasil</b> | 🚀 Focado em arquitetura limpa, engenharia de software e testes automatizados.
+  📍 <b>São Paulo — SP, Brasil</b> | 🚀 Engenharia de Software com foco em <b>Backend</b>, <b>Cloud Computing</b> e <b>Qualidade</b>.
 </p>
 
 ---
@@ -13,10 +13,11 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 **Pós-graduando em Engenharia de Software** e graduado em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 📱 Foco no desenvolvimento **Mobile (Android nativo com Kotlin)** e **Backend (Java e Node.js com TypeScript)**.
-- 🧪 Forte atuação em **Qualidade de Software (QA)** e **Automação de Testes** com BDD (**Java + Cucumber / Gherkin**).
-- 🏗️ Interesse constante em boas práticas de engenharia: padrões de projeto (*design patterns*), *clean code*, arquitetura de software e conteinerização.
-- 🤖 Explorando aplicações práticas de **Inteligência Artificial** e automações para o ecossistema de desenvolvimento.
+- ☁️ Direcionando carreira para **Cloud Computing**, microsserviços, arquitetura distribuída e conteinerização.
+- ⚙️ Forte foco em desenvolvimento **Backend** com **Java** e **TypeScript (Node.js)**, priorizando arquitetura limpa, segurança e APIs RESTful.
+- 🧪 Experiência com **Qualidade de Software (QA)** e **Automação de Testes** com BDD (**Java + Cucumber / Gherkin**).
+- 🎨 **Experiência complementar em Front-end**: vivência prática com interfaces web (HTML, CSS, TypeScript) e integração de APIs, facilitando a visão ponta a ponta e o alinhamento com times de produto e design.
+- 🐳 Prática com **Docker**, versionamento com **Git/GitHub** e aplicação de boas práticas de DevOps e CI/CD.
 
 ---
 
@@ -24,23 +25,28 @@
 
 <div align="center">
 
-#### **Linguagens**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+#### **Linguagens Principais**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Ecossistemas & Frameworks**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+#### **Cloud, DevOps & Infraestrutura**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### **Backend, APIs & Qualidade (QA)**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Frontend & Web (Experiência Complementar)**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Qualidade, DevOps & Ferramentas**
-![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_Web-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -48,13 +54,12 @@
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descrição | Foco / Stack |
 | :--- | :--- | :--- |
-| 📱 [**WeatherGuardian**](https://github.com/igorlimacharles/WeatherGuardian) | Aplicativo mobile para monitoramento e previsão meteorológica com foco em usabilidade e performance. | `Kotlin` `Android` |
-| 🧪 [**plantree-automacao**](https://github.com/igorlimacharles/plantree-automacao) | Estrutura de automação de testes end-to-end com metodologia BDD para garantia de qualidade. | `Java` `Cucumber/Gherkin` |
-| 🧠 [**MindTek**](https://github.com/igorlimacharles/MindTek) | Aplicação mobile desenvolvida explorando arquitetura Android moderna e componentes de UI nativos. | `Kotlin` `Android` |
-| 💳 [**fintech-java**](https://github.com/igorlimacharles/fintech-java) | Módulo backend voltado para regras de negócio e controle financeiro aplicando conceitos de POO. | `Java` `Clean Architecture` |
-| 🤖 [**imersaoIA**](https://github.com/igorlimacharles/imersaoIA) | Estudos e experimentações práticas aplicando modelos de Inteligência Artificial e processamento de dados. | `Python` `Jupyter Notebook` |
+| 💳 [**fintech-java**](https://github.com/igorlimacharles/fintech-java) | Módulo backend voltado para regras de negócio e controle financeiro aplicando conceitos de POO e Clean Architecture. | `Java` `Backend` `Clean Code` |
+| 🧪 [**plantree-automacao**](https://github.com/igorlimacharles/plantree-automacao) | Estrutura de automação de testes end-to-end com metodologia BDD para garantia de qualidade de software. | `Java` `Cucumber/Gherkin` `QA` |
+| 🤖 [**imersaoIA**](https://github.com/igorlimacharles/imersaoIA) | Exploração prática de Inteligência Artificial, manipulação de dados e automações inteligentes. | `Python` `Jupyter Notebook` `IA` |
+| 🛒 [**DevStore**](https://github.com/igorlimacharles/DevStore) | Aplicação web com consumo de APIs e fluxo de dados, demonstrando visão fullstack e integração front/back. | `TypeScript` `Web` `API Integration` |
 
 ---
 
